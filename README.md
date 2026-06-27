@@ -122,7 +122,6 @@ Strategy • Precision • Execution
 </td>
 </tr>
 </table>
-```
 
 
 ## STACK
