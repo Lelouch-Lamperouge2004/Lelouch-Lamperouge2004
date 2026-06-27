@@ -1,10 +1,10 @@
-<!-- Banner: upload your chosen banner image to assets/banner.png -->
+<!-- Banner -->
 <p align="center">
-  <img width="100%" src="./assets/banner.png" alt="Lelouch Lamperouge | Aditya Ingale | Code is my Geass" />
+  <img width="100%" src="./assets/banner.png" alt="Lelouch Lamperouge | Code is my Geass" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=C%2B%2B+Developer+%7C+Python+Backend+Developer;Data+Structures+%26+Algorithms;Chess+Player+%7C+Strategic+Thinker;I+write+code+to+command+complexity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=C%2B%2B+Developer+%7C+Python+Backend+Developer;Data+Structures+%26+Algorithms;Chess+Player+%7C+Strategic+Thinker;I+write+code+to+command+complexity;If+the+king+doesn't+lead%2C+how+can+his+subordinates+follow%3F" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,36 +17,38 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
+
+### Strategic Developer
 
 I am **Aditya Ingale**, a developer focused on building clean, practical, and interview-worthy software projects.
 
 My core strength is **C++ and Data Structures & Algorithms**, and I am currently expanding deeper into **Python backend development**.
 
-I also play **chess**, which matches the way I approach code: planning ahead, calculating trade-offs, staying patient, and executing with precision.
-
-> Code is my Geass — logic is my command.
+I believe good code is like a strong chess position — planned carefully, built patiently, and executed with precision.
 
 </td>
-<td width="40%">
+<td width="50%">
 
-```cpp
-class AdityaIngale {
-public:
-    string alias = "Lelouch Lamperouge";
-    string role = "Software Developer";
-    string mindset = "Strategy, patience, execution";
+### Chess Mindset
 
-    vector<string> strengths = {
-        "C++",
-        "Python Backend",
-        "DSA",
-        "Chess Thinking"
-    };
-};
-```
+Chess has shaped how I approach programming: calculate before moving, understand trade-offs, stay calm under pressure, and always think a few steps ahead.
+
+> **Code is my Geass — logic is my command.**
+
+> **"If the king doesn't lead, how can his subordinates follow?"**  
+> — Lelouch Lamperouge
 
 </td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>Primary Language</b><br/>C++</td>
+<td align="center" width="25%"><b>Backend Focus</b><br/>Python + FastAPI</td>
+<td align="center" width="25%"><b>Core Strength</b><br/>DSA</td>
+<td align="center" width="25%"><b>Mindset</b><br/>Strategy & Precision</td>
 </tr>
 </table>
 
@@ -56,7 +58,36 @@ public:
 
 ## TECH STACK
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,fastapi,react,git,github,vscode" />
+<a href="https://www.google.com/search?q=C%2B%2B" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+<a href="https://www.google.com/search?q=Python" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://www.google.com/search?q=HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://www.google.com/search?q=CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://www.google.com/search?q=JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+<a href="https://www.google.com/search?q=FastAPI" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</a>
+<a href="https://www.google.com/search?q=React" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+<a href="https://www.google.com/search?q=Git" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://www.google.com/search?q=GitHub" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.google.com/search?q=Visual+Studio+Code" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
 
 </div>
 
@@ -148,22 +179,31 @@ Video enhancement system for color vision deficiency using frame processing and 
 
 ## CONNECT
 
-<a href="https://www.linkedin.com/in/aditya-ingale-a87bab375/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Ingale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/aditya-ingale-a87bab375/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/nagi_69" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/nagi_69/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="50" />
 </a>
 
-<a href="https://www.codechef.com/users/nagi_69">
-  <img src="https://img.shields.io/badge/CodeChef-nagi__69-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="https://leetcode.com/u/nagi_69/">
-  <img src="https://img.shields.io/badge/LeetCode-nagi__69-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.linkedin.com/in/aditya-ingale-a87bab375/" target="_blank">
+  LinkedIn
+</a>
+&nbsp; | &nbsp;
+<a href="https://www.codechef.com/users/nagi_69" target="_blank">
+  CodeChef
+</a>
+&nbsp; | &nbsp;
+<a href="https://leetcode.com/u/nagi_69/" target="_blank">
+  LeetCode
 </a>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b0b0f,45:1a0b2e,100:3b0a45" />
-</p>
+```
