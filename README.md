@@ -24,7 +24,7 @@
 
 <td width="58%" valign="top">
 
-### 🎯 Focus
+## 🎯 Focus
 
 I enjoy building software that is **efficient, scalable, and easy to maintain**. My strongest foundation is in **C++** and **Data Structures & Algorithms**, where solving complex problems has shaped the way I think about software design.
 
@@ -32,22 +32,7 @@ Currently, I am expanding into **Python backend development**, exploring modern 
 
 Rather than chasing every new technology, I prefer understanding the fundamentals first and building projects that reflect clean design, practical engineering, and real-world usability.
 
-<br>
-
-### 📌 Snapshot
-
-| **Primary Language** | C++ |
-| :--- | :--- |
-| **Backend** | Python + FastAPI |
-| **Problem Solving** | **1000+ DSA Problems** |
-| **Competitive Programming** | **2★ CodeChef (1400+)** |
-| **Interests** | Backend Development • System Design • Chess |
-
-</td>
-
-<td width="42%" valign="top">
-
-### ♟ Philosophy
+## ♟ Philosophy
 
 Chess has had a huge influence on how I approach software development.
 
@@ -55,54 +40,23 @@ Instead of rushing toward a solution, I prefer to evaluate the position, underst
 
 The same mindset helps me write software that is deliberate, maintainable, and built with long-term thinking.
 
-> **"If the king doesn't lead, how can he expect his subordinates to follow?"**  
+> **"If the king doesn't lead, how can he expect his subordinates to follow?"**
+>
 > — *Lelouch vi Britannia*
 
-</td>
+## 📌 Developer Snapshot
 
-</tr>
-</table>
+<p align="center">
 
-**Language**
+<img src="https://img.shields.io/badge/C++-Primary_Language-00599C?style=for-the-badge&logo=cplusplus"/>
 
-C++
+<img src="https://img.shields.io/badge/FastAPI-Python_Backend-009688?style=for-the-badge&logo=fastapi"/>
 
-</td>
+<img src="https://img.shields.io/badge/1000+-DSA_Problems-success?style=for-the-badge"/>
 
-<td align="center" width="20%">
+<img src="https://img.shields.io/badge/2★-CodeChef-brown?style=for-the-badge"/>
 
-**Backend**
-
-Python + FastAPI
-
-</td>
-
-<td align="center" width="20%">
-
-**Problem Solving**
-
-900+ DSA
-
-</td>
-
-<td align="center" width="20%">
-
-**Competitive**
-
-2★ CodeChef
-
-</td>
-
-<td align="center" width="20%">
-
-**Approach**
-
-Strategy • Precision • Execution
-
-</td>
-</tr>
-</table>
-
+</p>
 
 ## STACK
 
