@@ -19,11 +19,6 @@
 
 </div>
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
 ## 🎯 Focus
 
 I enjoy building software that is **efficient, scalable, and easy to maintain**. My strongest foundation is in **C++** and **Data Structures & Algorithms**, where solving complex problems has shaped the way I think about software design.
@@ -31,6 +26,8 @@ I enjoy building software that is **efficient, scalable, and easy to maintain**.
 Currently, I am expanding into **Python backend development**, exploring modern API design, databases, authentication, and scalable application architecture.
 
 Rather than chasing every new technology, I prefer understanding the fundamentals first and building projects that reflect clean design, practical engineering, and real-world usability.
+
+---
 
 ## ♟ Philosophy
 
@@ -44,21 +41,26 @@ The same mindset helps me write software that is deliberate, maintainable, and b
 >
 > — *Lelouch vi Britannia*
 
+---
+
+<div align="center">
+
 ## 📌 Developer Snapshot
 
-<p align="center">
+<img src="https://img.shields.io/badge/Primary-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Python%20%2B%20FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-1000%2B%20Problems-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CodeChef-2%E2%98%85%20(1400%2B)-5B4638?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interest-System%20Design-informational?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/C++-Primary_Language-00599C?style=for-the-badge&logo=cplusplus"/>
+</div>
 
-<img src="https://img.shields.io/badge/FastAPI-Python_Backend-009688?style=for-the-badge&logo=fastapi"/>
+---
 
-<img src="https://img.shields.io/badge/1000+-DSA_Problems-success?style=for-the-badge"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/2★-CodeChef-brown?style=for-the-badge"/>
-
-</p>
-
-## STACK
+## 🛠 Tech Stack
 
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
@@ -97,7 +99,7 @@ The same mindset helps me write software that is deliberate, maintainable, and b
 
 <div align="center">
 
-## STATS
+## 📈 GitHub Analytics
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lelouch-Lamperouge2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff2d75&icon_color=b026ff&text_color=ffffff" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lelouch-Lamperouge2004&theme=radical&hide_border=true&background=0D1117&ring=ff2d75&fire=b026ff&currStreakLabel=ffffff" alt="GitHub Streak" />
@@ -112,11 +114,11 @@ The same mindset helps me write software that is deliberate, maintainable, and b
 
 <div align="center">
 
-## PROJECTS
+## 🚀 Featured Projects
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -190,7 +192,7 @@ Interactive web application that classifies reviews into **Positive** and **Nega
 
 <div align="center">
 
-## ACTIVITY
+## 🐍 Contribution Activity
 
 <img src="https://raw.githubusercontent.com/Lelouch-Lamperouge2004/Lelouch-Lamperouge2004/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
@@ -200,7 +202,7 @@ Interactive web application that classifies reviews into **Positive** and **Nega
 
 <div align="center">
 
-## CONTRIBUTION MAP
+## 🌌 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/Lelouch-Lamperouge2004/Lelouch-Lamperouge2004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
@@ -210,7 +212,7 @@ Interactive web application that classifies reviews into **Positive** and **Nega
 
 <div align="center">
 
-## CONTACT
+## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/aditya-ingale-a87bab375/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Ingale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -222,6 +224,10 @@ Interactive web application that classifies reviews into **Positive** and **Nega
 
 <a href="https://www.codechef.com/users/nagi_69" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-nagi__69-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+<a href="https://www.chess.com/member/yuuichi_619" target="_blank">
+  <img src="https://img.shields.io/badge/Chess.com-yuuichi__619-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" />
 </a>
 
 </div>
