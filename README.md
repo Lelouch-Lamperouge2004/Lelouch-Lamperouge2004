@@ -24,6 +24,43 @@
 
 <td width="58%" valign="top">
 
+### 🎯 Focus
+
+I build software with a focus on **clarity, performance, and practical problem-solving**.
+
+Most of my foundation comes from **C++** and **Data Structures & Algorithms**, where I have spent serious time improving how I break down problems, optimize solutions, and think through edge cases.
+
+Currently, I am expanding into **Python backend development**, especially API design, databases, authentication, and full-stack project architecture.
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Currently Building**
+
+- Mini Redis Cache  
+- LeetCode Tracker  
+- Python backend projects  
+
+</td>
+<td width="50%" valign="top">
+
+**Core Strengths**
+
+- C++ and DSA  
+- Backend logic  
+- Clean project structure  
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="42%" valign="top">
+
 ### ♟ Philosophy
 
 Chess has had a huge influence on how I approach software development.
@@ -45,41 +82,6 @@ The same mindset helps me write software that is deliberate, maintainable, and b
 <table align="center">
 <tr>
 <td align="center" width="20%">
-
-### 🎯 Focus
-
-I build software with a focus on **clarity, performance, and practical problem-solving**.
-
-Most of my foundation comes from **C++** and **Data Structures & Algorithms**, where I have spent serious time improving how I break down problems, optimize solutions, and think through edge cases.
-
-Currently, I am expanding into **Python backend development**, especially API design, databases, authentication, and full-stack project architecture.
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-**Currently Building**
-
-- Mini Redis Cache  
-- LeetCode Tracker  
-- Python backend projects  
-
-</td>
-<td width="50%">
-
-**Core Strengths**
-
-- C++ and DSA  
-- Backend logic  
-- Clean project structure  
-
-</td>
-</tr>
-</table>
-
-</td>
 
 **Language**
 
@@ -118,13 +120,10 @@ Python + FastAPI
 Strategy • Precision • Execution
 
 </td>
-
 </tr>
 </table>
+```
 
----
-
-<div align="center">
 
 ## STACK
 
