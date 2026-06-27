@@ -26,30 +26,6 @@
 
 ### 🎯 Focus
 
-I build software with a focus on **clarity, performance, and practical problem-solving**.
-
-Most of my foundation comes from **C++** and **Data Structures & Algorithms**, where I have spent serious time improving how I break down problems, optimize solutions, and think through edge cases.
-
-Currently, I am expanding into **Python backend development**, especially API design, databases, authentication, and full-stack project architecture.
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-## ABOUT
-
-</div>
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-### 🎯 Focus
-
 I enjoy building software that is **efficient, scalable, and easy to maintain**. My strongest foundation is in **C++** and **Data Structures & Algorithms**, where solving complex problems has shaped the way I think about software design.
 
 Currently, I am expanding into **Python backend development**, exploring modern API design, databases, authentication, and scalable application architecture.
