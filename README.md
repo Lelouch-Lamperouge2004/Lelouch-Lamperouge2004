@@ -24,15 +24,40 @@
 
 <td width="58%" valign="top">
 
-I enjoy building software that is **efficient, scalable, and easy to reason about**. Most of my experience comes from **C++**, where I've spent hundreds of hours strengthening my understanding of **Data Structures & Algorithms** and solving complex problems.
+### Focus
 
-Recently, I've been expanding into **Python backend development**, focusing on writing clean APIs, understanding system design, and building projects that solve real-world problems rather than just demonstrating concepts.
+I build software with a focus on **clarity, performance, and practical problem-solving**.
 
-For me, programming isn't just about writing code—it's about understanding systems, identifying trade-offs, and finding the simplest solution to a complex problem.
+Most of my foundation comes from **C++** and **Data Structures & Algorithms**, where I have spent serious time improving how I break down problems, optimize solutions, and think through edge cases.
+
+Currently, I am expanding into **Python backend development**, especially API design, databases, authentication, and full-stack project architecture.
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+**Currently Building**
+
+- Mini Redis Cache  
+- LeetCode Tracker  
+- Python backend projects  
 
 </td>
+<td width="50%">
 
-<td width="42%" valign="top">
+**Core Strengths**
+
+- C++ and DSA  
+- Backend logic  
+- Clean project structure  
+
+</td>
+</tr>
+</table>
+
+</td>
 
 ### ♟ Philosophy
 
