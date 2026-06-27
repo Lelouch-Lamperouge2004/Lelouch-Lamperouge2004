@@ -24,7 +24,29 @@
 
 <td width="58%" valign="top">
 
-### Focus
+### ♟ Philosophy
+
+Chess has had a huge influence on how I approach software development.
+
+Instead of rushing toward a solution, I prefer to evaluate the position, understand the constraints, and think several moves ahead before committing to an implementation.
+
+The same mindset helps me write software that is deliberate, maintainable, and built with long-term thinking.
+
+> **"If the king doesn't lead, how can he expect his subordinates to follow?"**  
+> — *Lelouch vi Britannia*
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+
+### 🎯 Focus
 
 I build software with a focus on **clarity, performance, and practical problem-solving**.
 
@@ -58,28 +80,6 @@ Currently, I am expanding into **Python backend development**, especially API de
 </table>
 
 </td>
-
-### ♟ Philosophy
-
-Chess has had a huge influence on how I approach software development.
-
-Instead of rushing toward a solution, I prefer to evaluate the position, understand the constraints, and think several moves ahead before committing to an implementation.
-
-The same mindset helps me write software that is deliberate, maintainable, and built with long-term thinking.
-
-> **"If the king doesn't lead, how can he expect his subordinates to follow?"**  
-> — *Lelouch vi Britannia*
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
 
 **Language**
 
