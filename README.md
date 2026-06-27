@@ -4,51 +4,96 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=C%2B%2B+Developer+%7C+Python+Backend+Developer;Data+Structures+%26+Algorithms;Chess+Player+%7C+Strategic+Thinker;I+write+code+to+command+complexity;If+the+king+doesn't+lead%2C+how+can+his+subordinates+follow%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=C%2B%2B+Developer+%7C+Python+Backend+Developer;900%2B+DSA+Problems+Solved;2%E2%98%85+CodeChef+%7C+Competitive+Programmer;I+write+code+to+command+complexity;If+the+king+doesn't+lead%2C+how+can+his+subordinates+follow%3F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Software Engineer • Competitive Programmer • Chess Enthusiast
 </p>
 
 ---
 
 <div align="center">
 
-## ABOUT ME
+## ABOUT
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
 
-### Strategic Developer
+<td width="58%" valign="top">
 
-I am **Aditya Ingale**, a developer focused on building clean, practical, and interview-worthy software projects.
+I enjoy building software that is **efficient, scalable, and easy to reason about**. Most of my experience comes from **C++**, where I've spent hundreds of hours strengthening my understanding of **Data Structures & Algorithms** and solving complex problems.
 
-My core strength is **C++ and Data Structures & Algorithms**, and I am currently expanding deeper into **Python backend development**.
+Recently, I've been expanding into **Python backend development**, focusing on writing clean APIs, understanding system design, and building projects that solve real-world problems rather than just demonstrating concepts.
 
-I believe good code is like a strong chess position — planned carefully, built patiently, and executed with precision.
-
-</td>
-<td width="50%">
-
-### Chess Mindset
-
-Chess has shaped how I approach programming: calculate before moving, understand trade-offs, stay calm under pressure, and always think a few steps ahead.
-
-> **Code is my Geass — logic is my command.**
-
-> **"If the king doesn't lead, how can his subordinates follow?"**  
-> — Lelouch Lamperouge
+For me, programming isn't just about writing code—it's about understanding systems, identifying trade-offs, and finding the simplest solution to a complex problem.
 
 </td>
+
+<td width="42%" valign="top">
+
+### ♟ Philosophy
+
+Chess has had a huge influence on how I approach software development.
+
+Instead of rushing toward a solution, I prefer to evaluate the position, understand the constraints, and think several moves ahead before committing to an implementation.
+
+The same mindset helps me write software that is deliberate, maintainable, and built with long-term thinking.
+
+> **"If the king doesn't lead, how can he expect his subordinates to follow?"**  
+> — *Lelouch vi Britannia*
+
+</td>
+
 </tr>
 </table>
+
+<br>
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><b>Primary Language</b><br/>C++</td>
-<td align="center" width="25%"><b>Backend Focus</b><br/>Python + FastAPI</td>
-<td align="center" width="25%"><b>Core Strength</b><br/>DSA</td>
-<td align="center" width="25%"><b>Mindset</b><br/>Strategy & Precision</td>
+<td align="center" width="20%">
+
+**Language**
+
+C++
+
+</td>
+
+<td align="center" width="20%">
+
+**Backend**
+
+Python + FastAPI
+
+</td>
+
+<td align="center" width="20%">
+
+**Problem Solving**
+
+900+ DSA
+
+</td>
+
+<td align="center" width="20%">
+
+**Competitive**
+
+2★ CodeChef
+
+</td>
+
+<td align="center" width="20%">
+
+**Approach**
+
+Strategy • Precision • Execution
+
+</td>
+
 </tr>
 </table>
 
@@ -56,37 +101,37 @@ Chess has shaped how I approach programming: calculate before moving, understand
 
 <div align="center">
 
-## TECH STACK
+## STACK
 
-<a href="https://www.google.com/search?q=C%2B%2B" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </a>
-<a href="https://www.google.com/search?q=Python" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </a>
-<a href="https://www.google.com/search?q=HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
 </a>
-<a href="https://www.google.com/search?q=CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
 </a>
-<a href="https://www.google.com/search?q=JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
 </a>
-<a href="https://www.google.com/search?q=FastAPI" target="_blank">
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
 </a>
-<a href="https://www.google.com/search?q=React" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" />
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
 </a>
-<a href="https://www.google.com/search?q=Git" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 </a>
-<a href="https://www.google.com/search?q=GitHub" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-<a href="https://www.google.com/search?q=Visual+Studio+Code" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" />
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 </a>
 
 </div>
@@ -95,14 +140,14 @@ Chess has shaped how I approach programming: calculate before moving, understand
 
 <div align="center">
 
-## GITHUB STATS
+## STATS
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lelouch-Lamperouge2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff2d75&icon_color=b026ff&text_color=ffffff" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lelouch-Lamperouge2004&theme=radical&hide_border=true&background=0D1117&ring=ff2d75&fire=b026ff&currStreakLabel=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lelouch-Lamperouge2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff2d75&icon_color=b026ff&text_color=ffffff" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lelouch-Lamperouge2004&theme=radical&hide_border=true&background=0D1117&ring=ff2d75&fire=b026ff&currStreakLabel=ffffff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelouch-Lamperouge2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff2d75&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelouch-Lamperouge2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff2d75&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -110,46 +155,77 @@ Chess has shaped how I approach programming: calculate before moving, understand
 
 <div align="center">
 
-## FEATURED PROJECTS
+## PROJECTS
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
 
-### Mini Redis Cache
+<td width="50%" valign="top">
 
-**Tech:** C++, CMake, Multithreading  
-In-memory key-value store with LRU eviction, TTL expiration, persistence, command handling, and TCP server support.
+### ⚡ Mini Redis Cache
 
-</td>
-<td width="50%">
+**Tech Stack**
 
-### Sentiment Analysis Web App
+`C++` • `CMake` • `Multithreading` • `TCP`
 
-**Tech:** Python, Streamlit, NLP  
-Machine learning web application for classifying text reviews as positive or negative with visual insights.
+A lightweight Redis-inspired in-memory key-value database supporting **LRU eviction**, **TTL expiration**, **disk persistence**, and a custom **TCP server** built from scratch.
+
+🔗 **Repository:** [GitHub](https://github.com/Lelouch-Lamperouge2004/MiniRedis)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 📊 LeetCode Progress Tracker
+
+**Tech Stack**
+
+`FastAPI` • `React` • `SQLAlchemy` • `SQLite`
+
+Full-stack application for tracking coding progress, managing solved problems, authentication, and visualizing DSA consistency.
+
+🔗 **Live Demo:** [Open App](https://leetcode-progress-tracker-zeta.vercel.app/)
+
+🔗 **Repository:** [GitHub](https://github.com/Lelouch-Lamperouge2004/LeetCode-Progress-Tracker)
+
+</td>
+
 </tr>
+
 <tr>
-<td width="50%">
 
-### LeetCode Progress Tracker
+<td width="50%" valign="top">
 
-**Tech:** FastAPI, React, SQL  
-Full-stack application to track coding progress, manage problems, and visualize DSA practice.
+### 🎥 CVD GAN Video Optimization
 
-</td>
-<td width="50%">
+**Tech Stack**
 
-### CVD GAN Video Optimization
+`Python` • `PyTorch` • `OpenCV` • `Conditional GAN`
 
-**Tech:** Python, cGAN, OpenCV  
-Video enhancement system for color vision deficiency using frame processing and Conditional GAN inference.
+Deep learning system that enhances videos for people with color vision deficiency through intelligent frame-by-frame color transformation.
+
+🔗 **Repository:** [GitHub](https://github.com/Lelouch-Lamperouge2004/CVD-Video-Color-Optimization)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 💬 Sentiment Analysis Web App
+
+**Tech Stack**
+
+`Python` • `Streamlit` • `Scikit-learn` • `NLP`
+
+Interactive web application that classifies reviews into **Positive** and **Negative** sentiment with preprocessing, visualization, and real-time prediction.
+
+🔗 **Live Demo:** [Open App](https://sentiment-analysis-systembranchmainmainfilepathapppy-f27bvgvzx.streamlit.app/)
+
+🔗 **Repository:** [GitHub](https://github.com/Lelouch-Lamperouge2004/Sentiment-Analysis-Streamlit)
+
+</td>
+
 </tr>
 </table>
 
@@ -157,19 +233,9 @@ Video enhancement system for color vision deficiency using frame processing and 
 
 <div align="center">
 
-## CONTRIBUTION SNAKE
+## ACTIVITY
 
-<img src="https://raw.githubusercontent.com/Lelouch-Lamperouge2004/Lelouch-Lamperouge2004/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 3D CONTRIBUTION GRAPH
-
-<img src="https://raw.githubusercontent.com/Lelouch-Lamperouge2004/Lelouch-Lamperouge2004/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/Lelouch-Lamperouge2004/Lelouch-Lamperouge2004/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -177,33 +243,28 @@ Video enhancement system for color vision deficiency using frame processing and 
 
 <div align="center">
 
-## CONNECT
+## CONTRIBUTION MAP
+
+<img src="https://raw.githubusercontent.com/Lelouch-Lamperouge2004/Lelouch-Lamperouge2004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## CONTACT
 
 <a href="https://www.linkedin.com/in/aditya-ingale-a87bab375/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/nagi_69" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="50" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/nagi_69/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="50" />
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Ingale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/aditya-ingale-a87bab375/" target="_blank">
-  LinkedIn
-</a>
-&nbsp; | &nbsp;
-<a href="https://www.codechef.com/users/nagi_69" target="_blank">
-  CodeChef
-</a>
-&nbsp; | &nbsp;
 <a href="https://leetcode.com/u/nagi_69/" target="_blank">
-  LeetCode
+  <img src="https://img.shields.io/badge/LeetCode-nagi__69-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="https://www.codechef.com/users/nagi_69" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-nagi__69-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
 </div>
-```
