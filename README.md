@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=C%2B%2B+Developer+%7C+Python+Backend+Developer;900%2B+DSA+Problems+Solved;2%E2%98%85+CodeChef+%7C+Competitive+Programmer;I+write+code+to+command+complexity;If+the+king+doesn't+lead%2C+how+can+his+subordinates+follow%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=C%2B%2B+Developer+%7C+Python+Backend+Developer;1000%2B+DSA+Problems+Solved;2%E2%98%85+CodeChef+%7C+Competitive+Programmer;I+write+code+to+command+complexity;If+the+king+doesn't+lead%2C+how+can+his+subordinates+follow%3F" alt="Typing SVG" />
 </p>
 
 <p align="center">
