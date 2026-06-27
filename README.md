@@ -38,24 +38,34 @@ Currently, I am expanding into **Python backend development**, especially API de
 <tr>
 <td width="50%" valign="top">
 
-**Currently Building**
 
-- Mini Redis Cache  
-- LeetCode Tracker  
-- Python backend projects  
+## ABOUT
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-**Core Strengths**
+<table>
+<tr>
 
-- C++ and DSA  
-- Backend logic  
-- Clean project structure  
+<td width="58%" valign="top">
 
-</td>
-</tr>
-</table>
+### 🎯 Focus
+
+I enjoy building software that is **efficient, scalable, and easy to maintain**. My strongest foundation is in **C++** and **Data Structures & Algorithms**, where solving complex problems has shaped the way I think about software design.
+
+Currently, I am expanding into **Python backend development**, exploring modern API design, databases, authentication, and scalable application architecture.
+
+Rather than chasing every new technology, I prefer understanding the fundamentals first and building projects that reflect clean design, practical engineering, and real-world usability.
+
+<br>
+
+### 📌 Snapshot
+
+| **Primary Language** | C++ |
+| :--- | :--- |
+| **Backend** | Python + FastAPI |
+| **Problem Solving** | **1000+ DSA Problems** |
+| **Competitive Programming** | **2★ CodeChef (1400+)** |
+| **Interests** | Backend Development • System Design • Chess |
 
 </td>
 
@@ -76,12 +86,6 @@ The same mindset helps me write software that is deliberate, maintainable, and b
 
 </tr>
 </table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
 
 **Language**
 
